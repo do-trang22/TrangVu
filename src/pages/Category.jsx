@@ -48,6 +48,17 @@ const products = [
     oldPrice: "259.000",
     discount: "-15",
   },
+  {
+    id: 4,
+    name: "Áo thun nam Cotton Compact",
+    image: "/assets/images/women/sweet-chilling.png",
+    rating: "4.8",
+    reviews: "1.257",
+    colors: ["#000000", "#777777", "#F5F5F5", "#2C2C2C"],
+    currentPrice: "219.000",
+    oldPrice: "259.000",
+    discount: "-15",
+  },
 ];
 
 const Category = () => {
